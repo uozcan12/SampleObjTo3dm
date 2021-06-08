@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 rhino3dm = "*"
+compute-rhino3d = "*"
 
 [dev-packages]
 
